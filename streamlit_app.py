@@ -1,3 +1,3 @@
-import streamlit as stl
+import streamlit
 
-stl.title("hola mundo")
+streamlit.title("My parents new healthy diner")
